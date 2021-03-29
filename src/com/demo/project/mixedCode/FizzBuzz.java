@@ -1,4 +1,4 @@
-package com.demo.project;
+package com.demo.project.mixedCode;
 
 import java.util.ArrayList;
 import java.util.List;
