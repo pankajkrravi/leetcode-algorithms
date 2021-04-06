@@ -3,7 +3,7 @@ package com.demo.project.corejavaCode;
  1. If you want to change the definition of a method of parent class, you can do that in child class
  2. Multiple implementation can be provided by same method
  3. We can change the impl of super class method
-  wE CANT USE OVERRIDING IN FOLLOWING situation
+  ============ WE CANT USE OVERRIDING IN FOLLOWING situation ============
   1. if parent class method is private
   2. static , final method cant be overridden
   3. Constructor can not be overridden
