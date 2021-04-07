@@ -20,11 +20,20 @@ public class FinalKeyword {
          a=20;
      }*/
       //4. Parameterized variable
-     public void ParameterizedMeth(int b)
+     public void ParameterizedMeth(final int finalValue)
      {
-            b=b;
+            b=finalValue;
+            //finalValue+=10;
             System.out.println(b);
      }
+    // 3. class variable(static variable)
+        final static int sVal=10;
+        // sVal+=10;
+        void printStaticValue()
+        {
+            System.out.println(sVal);
+        }
+
         void disp()
         {   // final variable -->1.  Local variable
             final int b=88;
@@ -48,5 +57,7 @@ public class FinalKeyword {
            keyword.disp();
          System.out.println("==========================");
          keyword.ParameterizedMeth(55);
+         System.out.println("------------static variable -------------");
+            keyword.printStaticValue();
      }
  }
