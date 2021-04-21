@@ -1,6 +1,6 @@
 # leetcode-algorithms
  This repo contains Solution of Leetcode and java important core programs
-## 500+ Data Structures and Algorithms practice problems
+## 500+ ================ Data Structures and Algorithms problems practicechallange ===================
 
 ### Array
 
