@@ -1494,3 +1494,6 @@
 [29.Generate Fair Results from a Biased Coin](http://www.techiedelight.com/generate-fair-results-biased-coin/)
 
 [30.Magnet Puzzle](http://www.techiedelight.com/magnet-puzzle/)
+======================================================================================================
+Mixed Questions
+1. print the number with value closest to zero from array in java
