@@ -10,7 +10,7 @@ public class AaString {
     public static void main(String[] args) {
         System.out.println(addStrings("100","123"));
     }*/
-    // sol 1 ----------------------------------------------------------- 1
+    // sol 1 ------------------------------------------------------------ 1
     public String addStrings(String num1, String num2) {
         StringBuilder sb = new StringBuilder();
         int carry = 0;
