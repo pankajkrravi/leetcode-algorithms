@@ -16,7 +16,7 @@ public class  CountCharFromString {
 
     public static void main(String[] args) {
 
-        String Str = "JAVA";
+        String Str =  "JAVA";
 
         char charStr[] = Str.toCharArray();
 
